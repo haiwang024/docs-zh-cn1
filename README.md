@@ -33,18 +33,6 @@ pnpm i
 pnpm run dev
 ```
 
-## 贡献者列表
-
-最新的文档/翻译贡献情况可以参阅 GitHub 提供的 [contributors](https://github.com/vuejs-translations/docs-zh-cn/graphs/contributors) 页面。
-
-以下是基于该仓库中 PR 和 commit 统计并按总数量排序的所有贡献者，[生成逻辑可在此查阅](https://github.com/ShenQingchuan/github-contributor-svg-generator)。
-
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/ShenQingchuan/github-contributor-svg-generator@main/.github-contributors/vuejs-translations_docs-zh-cn.svg">
-    <img src="https://cdn.jsdelivr.net/gh/ShenQingchuan/github-contributor-svg-generator@main/.github-contributors/vuejs-translations_docs-zh-cn.svg" />
-  </a>
-</p>
-
 ## 版权声明
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议  (CC BY-NC-SA 4.0) </a>进行许可。
